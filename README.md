@@ -18,6 +18,6 @@ This repository functions as the official academic index for a comprehensive beh
 ## 🔓 Framework Access
 The complete systemized blueprint containing all 60 empirical tools and 180 replication-ready action items is available globally via Amazon. 
 
-📚 [Access the Complete Master Blueprint on Amazon](여기에 아마존 책 직접 링크 주소 삽입)
+📚 [Access the Complete Master Blueprint on Amazon] https://a.co/d/030TwkXj
 
 *Maintained by Educational Behaviorist & Researcher Koh.*
